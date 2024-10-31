@@ -16,7 +16,7 @@ const App = () => {
         <Header />
 
         <Routes>
-          <Route path="/home" element={<Home />} />
+          <Route path="/dotdev" element={<Home />} />
           <Route path="/features" element={<Features />} />
         </Routes>
 
